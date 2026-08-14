@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Oxy</h1>
 <h3 align="center">ESP32 & embedded systems Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oxyo2861-dotcom&label=Profile%20views&color=0e75b6&style=flat" alt="oxyo2861-dotcom" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=oxyo2861-dotcom&label=Profile%20views&color=0e75b6&style=flat" alt="Image generation Error" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oxyo2861-dotcom" alt="oxyo2861-dotcom" /></a> </p>
 
@@ -11,8 +11,9 @@
 
 - Currently building **Something that probably shouldn't work, but somehow does :D**
 
-- - ESP32 / Arduino / Rasberry Pi **-Favorite DEVBOARD ESP32**
+- ESP32 / Arduino / Rasberry Pi **-Favorite DEVBOARD ESP32** - 
 
+- off topic I like pigeons btw :D -
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>

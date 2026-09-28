@@ -4,9 +4,6 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=oxyo2861-dotcom&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-
-- I’m currently learning **HTML**
-
 - Embeded Systems **ESP32 projects, custom interfaces, sensors and small hardware experiments.**
 
 - Currently building **Something that probably shouldn't work, but somehow does :D**

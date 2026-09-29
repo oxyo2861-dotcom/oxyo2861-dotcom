@@ -7,7 +7,7 @@
 
 - ESP32 / PIC / STM32 **- Favorite DEVBOARD ESP32**
 
--Favorite Programming Languages / C / C++ / ASM
+- Favorite Programming Languages / C / C++ / ASM
 
 - off topic I like pigeons btw :D
 

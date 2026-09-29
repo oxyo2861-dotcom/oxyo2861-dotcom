@@ -13,7 +13,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://cdn.worldvectorlogo.com/logos/espressif-systems.svg" alt="espressif" width="70" height="70"/>
-<img src="https://banner2.cleanpng.com/20180724/yth/938138e50cf383b06fd34a9e89c43138.webp" alt="nasm" width="70" height="70"/>
 <img src="https://user-images.githubusercontent.com/103866722/177873824-ac727cae-29d5-406d-87de-93bb2bf21f02.png" alt="assembly" width="70" height="70"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="70" height="70"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="70" height="70"/>

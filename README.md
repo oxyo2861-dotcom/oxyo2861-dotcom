@@ -5,11 +5,12 @@
 </p>
 - Embeded Systems **ESP32 projects, custom interfaces, sensors and small hardware experiments.**
 
-- Currently building **Something that probably shouldn't work, but somehow does :D**
+- ESP32 / PIC / STM32 **- Favorite DEVBOARD ESP32**
 
-- ESP32 / Arduino / Rasberry Pi **- Favorite DEVBOARD ESP32**
+-Favorite Programming Languages / C / C++ / ASM
 
 - off topic I like pigeons btw :D
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://cdn.worldvectorlogo.com/logos/espressif-systems.svg" alt="espressif" width="70" height="70"/>
